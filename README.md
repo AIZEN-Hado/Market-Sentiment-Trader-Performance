@@ -10,7 +10,7 @@ The goal is to uncover patterns between market psychology and trading outcomes, 
 
 ## 📁 Dataset
 - 📌 Bitcoin Fear & Greed Index (Market Sentiment)
-- 📌 Historical Trader Data (Hyperliquid)
+- 📌 Historical Trader Data (Hyperliquid).
 
 ---
 
