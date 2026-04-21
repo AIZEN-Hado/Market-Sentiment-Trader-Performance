@@ -64,11 +64,11 @@ Includes:
 ## 📂 Project Structure
 ```
 
-market-sentiment-analysis/
+Market-Sentiment-Trader-Performance/
 │
-├── Market-Sentiment-Trader-Performance.ipynb
-├── market_sentiment_vs_trader_performance_report.pdf
-└── README.md
+├── Copy_of_Yashsingh.ipynb
+├── Readme.md
+└── market_sentiment_vs_trader_performance_report.pdf
 
 ```
 
